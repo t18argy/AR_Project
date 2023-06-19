@@ -55,7 +55,7 @@
 
 ## Παραδοτέο 3
 *Coding schema*
-![image](https://github.com/t18argy/Sxediasmos-Perivallontwn-Diepafhs/assets/93123676/f2b83b8b-6db0-4204-97a8-ba45f0b7e27f)
+![image](https://github.com/t18argy/Sxediasmos-Perivallontwn-Diepafhs/assets/93123676/8ce10a81-a0da-47b7-b11f-fbb72f9743fa)
 
 *Συμπεράσματα*
 
